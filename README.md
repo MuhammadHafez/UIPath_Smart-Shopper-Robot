@@ -14,3 +14,5 @@
  6- Write filtered result in excel sheet.
  
  7- Color lowest price product.
+ 
+ 8- Repeat all steps on Jumia website.
